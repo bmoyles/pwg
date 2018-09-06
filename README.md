@@ -1,2 +1,4 @@
 # pwg
-Super dumb password generator thing I write when exploring a new language.
+
+Various implementations of the SuperDumbPasswordGenerator™®, a little project I
+use to get a taste of a new programming language.
